@@ -1,3 +1,4 @@
 Welcome to Group A!
 
-We have added the architecture of Eclipse IDE in this repository.
+This is part of Deliverable 3.
+It includes our poster for Deliverable 3. This also includes architecure of Eclipse IDE.
